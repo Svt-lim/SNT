@@ -20,3 +20,16 @@ Notez que vous utilisez une ```class``` plutôt qu'un ```id```. une ```class``` 
 ![image](https://github.com/Svt-lim/SNT/blob/master/images/6%20pixel-art-grid-3.png)  
 ***
 ### Défi 1 : Amenez votre matrice à 8x8 cases.
+***  
+#### Etape 2 : Interagir avec les pixels  
+A l'aide d'un peu de Javascript vous allez colorer un pixel en cliquant dessus. Vous allez créer une fonction et l'appeller pour noircir vos pixels.  
+* dans l'onglet script.js ajoutez le code suivant :  
+![image](https://github.com/Svt-lim/SNT/blob/master/images/8%20pixel-art-set-pixel-colour.png)  
+pour l'instant votre fonction ne produit aucun effet car il faut l'appeler dans Index.html.  
+* retournez dans Index.html et modifiez le ```<div>``` de votre premier pixel.  
+![image](https://github.com/Svt-lim/SNT/blob/master/images/9%20pixel-art-onclick.png)  
+le **this** ici est juste un moyen de se rappeller que la fonction n'est appelée que pour **ce** pixel.  
+* testez votre code en cliquant sur votre premier pixel vous devriez obtenir ça :  
+![image](https://github.com/Svt-lim/SNT/blob/master/images/10%20pixel-art-black.png)  
+***
+#### Défi 2 : Rendez chaque pixel cliquable et coloriable en noir.
