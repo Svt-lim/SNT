@@ -49,7 +49,7 @@ la balise style= permet d'ajouter directement du CSS dans le fichier HTML ce qui
 ![image](https://github.com/Svt-lim/SNT/blob/master/images/16%20pixel-art-palette-onclick.png)  
 # Défi 3 : Ajoutez les couleurs Rouge, Vert et Bleu à votre palette  
 ***
-![image](
+![image](https://github.com/Svt-lim/SNT/blob/master/images/pixel-art-final.png)
 
 
 
