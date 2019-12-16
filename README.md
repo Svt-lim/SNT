@@ -1,9 +1,9 @@
 # Activité SNT seconde : Générateur de pixel-art.
-## Pré-requis :
+# Pré-requis :
 Ouvrez le trinket de base du projet : [jumpto.cc/web-pixel](jumpto.cc/web-pixel)
 vous avez trois onglets : Index.html, Style CSS et script.js
 ![Depart](https://github.com/Svt-lim/SNT/blob/master/images/1%20pixel-starter.png)
-### Etape 1: Faire la matrice
+# Etape 1: Faire la matrice
 Dans l'onglet Index.html entre ```<body>``` et ```</body>``` vous allez créer un ```<div>```
 ![Depart](https://github.com/Svt-lim/SNT/blob/master/images/2%20pixel-art-art.png)  
 un ```<div>``` est objet invisible auquel vous allez donner un style. 
@@ -19,9 +19,9 @@ Notez que vous utilisez une ```class``` plutôt qu'un ```id```. une ```class``` 
 * dans votre fichier index.html, ajouter deux sections de 3 pixels pour obtenir une matrice de 3x3  
 ![image](https://github.com/Svt-lim/SNT/blob/master/images/6%20pixel-art-grid-3.png)  
 ***
-### Défi 1 : Amenez votre matrice à 8x8 cases.
+# Défi 1 : Amenez votre matrice à 8x8 cases.
 ***  
-#### Etape 2 : Interagir avec les pixels  
+# Etape 2 : Interagir avec les pixels  
 A l'aide d'un peu de Javascript vous allez colorer un pixel en cliquant dessus. Vous allez créer une fonction et l'appeller pour noircir vos pixels.  
 * dans l'onglet script.js ajoutez le code suivant :  
 ![image](https://github.com/Svt-lim/SNT/blob/master/images/8%20pixel-art-set-pixel-colour.png)  
@@ -32,6 +32,7 @@ le **this** ici est juste un moyen de se rappeller que la fonction n'est appelé
 * testez votre code en cliquant sur votre premier pixel vous devriez obtenir ça :  
 ![image](https://github.com/Svt-lim/SNT/blob/master/images/10%20pixel-art-black.png)  
 ***
-#### Défi 2 : Rendez chaque pixel cliquable et coloriable en noir.
+# Défi 2 : Rendez chaque pixel cliquable et coloriable en noir.
 ***
 **astuce : vous pouvez cliquer sur Autorun pour effacer vos pixels**  
+# Etape 3
