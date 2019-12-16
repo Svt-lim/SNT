@@ -44,4 +44,12 @@ la balise style= permet d'ajouter directement du CSS dans le fichier HTML ce qui
 * ouvrez votre script.js et ajoutez le code suivant tout en haut du script, en ligne 1 :  
 ![image](https://github.com/Svt-lim/SNT/blob/master/images/15%20pixel-art-set-pen.png)  
 * il faut aussi changer la fonction **setPixelColour** pour utiliser **Pencolor** au lieu de **black**  
+![image](https://github.com/Svt-lim/SNT/blob/master/images/pixel-art-use-pen.png)  
+* modifiez votre palette dans votre fichier index.html  
+![image](https://github.com/Svt-lim/SNT/blob/master/images/16%20pixel-art-palette-onclick.png)  
+# Défi 3 : Ajoutez les couleurs Rouge, Vert et Bleu à votre palette  
+***
+![image](
+
+
 
