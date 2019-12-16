@@ -34,3 +34,4 @@ le **this** ici est juste un moyen de se rappeller que la fonction n'est appelé
 ***
 #### Défi 2 : Rendez chaque pixel cliquable et coloriable en noir.
 ***
+**astuce : vous pouvez cliquer sur Autorun pour effacer vos pixels**  
