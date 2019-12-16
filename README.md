@@ -35,4 +35,13 @@ le **this** ici est juste un moyen de se rappeller que la fonction n'est appelé
 # Défi 2 : Rendez chaque pixel cliquable et coloriable en noir.
 ***
 **astuce : vous pouvez cliquer sur Autorun pour effacer vos pixels**  
-# Etape 3
+# Etape 3 : Creer une palette de couleur.  
+* ajoutez le code suivant dans votre fichier CSS pour creer un style de pinceau 
+![image](https://github.com/Svt-lim/SNT/blob/master/images/12%20pixel-art-pen.png)  
+* retournez dans votre fichier index.html et incluez le code suivant entre body et votre div "art"  
+![image](https://github.com/Svt-lim/SNT/blob/master/images/13%20pixel-art-palette.png)  
+la balise style= permet d'ajouter directement du CSS dans le fichier HTML ce qui ici nous évite de trop jongler entre les fichiers.  
+* ouvrez votre script.js et ajoutez le code suivant tout en haut du script, en ligne 1 :  
+![image](https://github.com/Svt-lim/SNT/blob/master/images/15%20pixel-art-set-pen.png)  
+* il faut aussi changer la fonction **setPixelColour** pour utiliser **Pencolor** au lieu de **black**  
+
