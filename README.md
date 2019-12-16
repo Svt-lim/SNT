@@ -15,4 +15,8 @@ il va falloir peupler votre fichier Index.html de pixel organisés en rangées e
 ![image](https://github.com/Svt-lim/SNT/blob/master/images/4%20pixel-art-row.png)  
 Notez que vous utilisez une ```class``` plutôt qu'un ```id```. une ```class``` est plus utile car vous allez devoir creer 64 pixels.  
 * retournez dans style.CSS afin de creer un style pour les class pixel & row  
-![image](https://github.com/Svt-lim/SNT/blob/master/images/5%20pixel-art-row-style.png)
+![image](https://github.com/Svt-lim/SNT/blob/master/images/5%20pixel-art-row-style.png)  
+* dans votre fichier index.html, ajouter deux sections de 3 pixels pour obtenir une matrice de 3x3  
+![image](https://github.com/Svt-lim/SNT/blob/master/images/6%20pixel-art-grid-3.png)  
+***
+### Défi 1 : Amenez votre matrice à 8x8 cases.
