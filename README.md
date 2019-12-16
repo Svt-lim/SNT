@@ -33,3 +33,4 @@ le **this** ici est juste un moyen de se rappeller que la fonction n'est appelé
 ![image](https://github.com/Svt-lim/SNT/blob/master/images/10%20pixel-art-black.png)  
 ***
 #### Défi 2 : Rendez chaque pixel cliquable et coloriable en noir.
+***
