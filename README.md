@@ -1,6 +1,6 @@
 # Activité SNT seconde : Générateur de pixel-art.
 # Pré-requis :
-Ouvrez le trinket de base du projet : [jumpto.cc/web-pixel](jumpto.cc/web-pixel)
+Ouvrez le trinket de base du projet : [jumpto.cc/web-pixel](https://trinket.io/embed/html/705f264f59#.XftFuVPfswB)
 vous avez trois onglets : Index.html, Style CSS et script.js
 ![Depart](https://github.com/Svt-lim/SNT/blob/master/images/1%20pixel-starter.png)
 # Etape 1: Faire la matrice
